@@ -1,5 +1,5 @@
 {
-    "name": "divulgueregional/api-bb-php",
+    "name": "enspireagencia/api-bb-php",
     "description": "API para gerar boletos do Banco do Brasil",
     "license": "MIT",
     "type": "library",
